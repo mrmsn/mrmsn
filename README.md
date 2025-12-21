@@ -1,5 +1,5 @@
-# **Assalamualaikum**
-
+# **Muhammad Ridwan bin Mohamad Syaharun Nizar | UTM Student**
+Assalamualaikum and greetings, I am currently taking a degree on Bachelor of Computer Science (Networks & Security). I am currently 
 <!--
 **mrmsn/mrmsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
