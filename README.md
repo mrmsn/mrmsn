@@ -1,15 +1,14 @@
 # **Muhammad Ridwan bin Mohamad Syaharun Nizar | UTM Student**
-Assalamualaikum and greetings, I am currently taking a degree on Bachelor of Computer Science (Networks & Security). I am currently 
+Assalamualaikum and greetings, I am currently taking a degree on Bachelor of Computer Science (Networks & Security).
 
 > Education
-- Asasi Sains Fizikal UTMKL
-
+- Physical Science Foundation UTMKL
+- Bachelor degree of Computer Science (Networks & Security)
+  
 > Skills
-<!--<a href -->
+
 <a href = https://www.w3schools.com/cpp/cpp_intro.asp > <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/14278968-ce5f-480f-95af-3771e5d33152" /> <a/>
 <a href = https://www.python.org/ > <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/5c63bf89-469c-48b0-89ef-04ce3390ec23" /> <a/>
-
-> Certificate
 
 
 <!--
