@@ -1,5 +1,8 @@
-## Assalamualaikum and greetings 👋
+## Assalamualaikum and greetings 👋 <br> Computer Science (Networks & Security) student
+
+- My name is Muhammad Ridwan bin Mohamad Syaharun Nizar
 - I am currently pursuing on the Bachelor of Computer Science (Networks & Security)
+- I strive to invent or innovate solutions for certain problems
 
 ## Education 📓
 - Sekolah Kebangsaan Taming Jaya / Sekolah Rendah Islam Al Hidayah
@@ -14,7 +17,7 @@
 ## Position 📌
 - Sekolah Berasrama Penuh Integrasi Jempol
     - Treasurer (Malaysian Red-Crescent Society)
-    - Treasurer (Malay Language Club)
+    - Treasurer (Chess Club)
 
 ## Skills (Currently learning) ⚙️
 
@@ -24,6 +27,8 @@
     <td><a href = https://www.python.org/ > <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/5c63bf89-469c-48b0-89ef-04ce3390ec23" /> <a/></td>
   </tr>
 </table>
+
+## Courses & Certificate 📜
       
 <!--
 **mrmsn/mrmsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
