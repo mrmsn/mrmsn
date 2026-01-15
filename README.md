@@ -43,6 +43,8 @@
 
 ## Honors & Awards 🌟
 - Chess Tournament (MSSD Jempol) – 2nd Place, U18 Category (2023)
+      
+
 <!--
 **mrmsn/mrmsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
