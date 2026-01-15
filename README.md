@@ -37,7 +37,7 @@
 
 <details>
     <div>
-        <img src = "scan0020.jpg" width = 20%>
+        <img src = "images/scan0020.jpg" width = 20%>
     </div>
 </details>
 
