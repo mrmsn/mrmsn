@@ -9,8 +9,10 @@
     - Year: 2013 - 2018
 - Sekolah Berasrama Penuh Integrasi Jempol
     - Year: 2019 - 2024
+    - SPM: 11A
 - Physical Science Foundation UTM KL
     - Year: 2024 - 2025
+    - CGPA: 3.81
 - Bachelor degree of Computer Science (Networks & Security) UTM JB
     - Year: 2025 ~
  
@@ -28,8 +30,21 @@
   </tr>
 </table>
 
-## Courses & Certificate 📜
+## Courses
+- Projek Intelek ICT (2023)
+
+## Certificate 📜
+
+<details>
+    <div>
+        <img src = "scan0020.jpg" width = 20%>
+    </div>
+</details>
+
+## Honors & Awards 🌟
+- Chess Tournament (MSSD Jempol) – 2nd Place, U18 Category (2023)
       
+
 <!--
 **mrmsn/mrmsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
