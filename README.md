@@ -2,7 +2,7 @@
 
 - My name is Muhammad Ridwan bin Mohamad Syaharun Nizar
 - I am currently pursuing on the Bachelor of Computer Science (Networks & Security)
-- I strive to invent or innovate solutions for certain problems
+- I strive to invent or innovate solutions for problems
 
 ## Education 📓
 - Sekolah Kebangsaan Taming Jaya / Sekolah Rendah Islam Al Hidayah
@@ -21,12 +21,21 @@
     - Treasurer (Malaysian Red-Crescent Society)
     - Treasurer (Chess Club)
 
-## Skills (Currently learning) ⚙️
-
+## Skills ⚙️
+> Programming Language (Beginner)
 <table>
   <tr>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python
     <td><a href = https://www.w3schools.com/cpp/cpp_intro.asp > <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/14278968-ce5f-480f-95af-3771e5d33152" /><a/></td>
-    <td><a href = https://www.python.org/ > <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/5c63bf89-469c-48b0-89ef-04ce3390ec23" /> <a/></td>
+    <td><a href = https://www.python.org/ > <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/5c63bf89-469c-48b0-89ef-04ce3390ec23" /><a/></td>
+  </tr>
+</table>
+
+> Tools (Beginner)
+<table>
+  <tr>
+    &nbsp;&nbsp; VS Code
+    <td><a href = https://www.w3schools.com/cpp/cpp_intro.asp > <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b4eaef59-f3de-4a81-9777-c77829d39054" /><a/></td>
   </tr>
 </table>
 
